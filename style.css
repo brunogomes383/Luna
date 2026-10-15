@@ -1,0 +1,54 @@
+body {
+
+background-color: pink !important;
+font-family: Arial, sans-serif;
+text-aligh: center;
+margin: 0;
+padding: 30px 15px;
+color: #5c3445;
+}
+
+.cartao{
+
+background-color: white;
+max-wight: 600px;
+margin=0 auto;
+padding: 30px;
+border-radius: 20px;
+box-shadow: 0 4px 15px #e6b8c8;
+}
+
+h1 {
+
+color: #5c3445;
+font-size: 32px;
+}
+
+p{
+font-size: 18px;
+line-height:1.6;
+}
+
+img {
+
+wight: 100%;
+max-wight: 350px;
+height: auto;
+border-radius: 15px;
+margin-top: 15px;
+}
+
+.final {
+
+color: #d63384;
+font-weight: bold;
+}
+
+.kuromi {
+
+wight: 25px;
+height: 35px;
+object-fit: contain;
+vertical-aligh: middle;
+margin-left: 5px;
+}
